@@ -1,2 +1,0 @@
-# html-cv
-HTML Resume
