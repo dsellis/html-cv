@@ -73,13 +73,13 @@ ul {
 }
 
 .fas, .far, .comingSoon {
-	margin-bottom: 10px;
 	font-size: 0.8em;
 	color: #fdcb6e;
 }
 
-.comingSoon, .fa-clock {
+.comingSoon, .fa-clock, .fa-chart-line {
 	color: rgba(255,255,255,0.5);
+	margin-bottom: 10px;
 }
 
 a {
